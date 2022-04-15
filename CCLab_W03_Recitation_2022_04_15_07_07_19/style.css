@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(252, 255, 96);
+}
+canvas {
+  display: block;
+}
+
+#canvasContainer{
+  position: static;
+  margin-left: 30%;
+}
